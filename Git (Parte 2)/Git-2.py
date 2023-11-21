@@ -37,7 +37,7 @@ while True:
         print(f"Multiplicación: {multiplicacion(valor1, valor2)}")
     elif opcion == '6':
         print(f"División: {division(valor1, valor2)}")
-    else: opcion == '7':
+    elif opcion == '7':
         print("Saliendo del programa.")
         break
     else:
